@@ -17,13 +17,13 @@ ul {
     margin:0;
     padding:0;
     position: absolute;
-    padding-right: 50px;
 }
 /*Create a horizontal list with spacing*/
 li {
     display:inline-block;
     float: left;
     margin-right: 1px;
+    padding-left: 50px;
 }
 /*Style for menu links*/
 li a {
