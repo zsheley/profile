@@ -17,6 +17,7 @@ ul {
     margin:0;
     padding:0;
     position: absolute;
+    padding-right: left;
 }
 /*Create a horizontal list with spacing*/
 li {
